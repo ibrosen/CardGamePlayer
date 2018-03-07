@@ -1,5 +1,5 @@
 # CardGamePlayer
-First year Foundations of Computing assignment, came 8th out of the tournament with 400+ students
+First year Foundations of Computing assignment, came 8th out of the tournament with 400+ students. Foundations of Computing was my first exposure to programming, and I haven't refactored the code, so there are DEFINITELY some inefficiencies in it, but for me it's a nice reminder of when I found how much I enjoyed programming.
 
 The project was to create a rudimentary AI to play a variant of the Oh Hell card game. The bot that you wrote was then played against the bots of all the other students in the cohort, with a live updating leaderboard.
 
